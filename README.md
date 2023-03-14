@@ -1,4 +1,4 @@
-# Amazon sales's EDA and analysis
+# Анализ продаж Амазона в Индии за Q2 2022 г.
 
 ## Данные
 Датасет взят с сайта https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Cloud+Warehouse+Compersion+Chart.csv
